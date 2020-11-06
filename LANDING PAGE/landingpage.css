@@ -40,8 +40,9 @@ ul li.active a{
 }
 .logo img{
     float: left;
-    width: 120px;
-    height: auto;
+    width: auto;
+    height: 75px;
+    margin-top: 1rem;
 }
 
 .main{
